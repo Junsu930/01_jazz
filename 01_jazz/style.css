@@ -1,0 +1,61 @@
+*{
+  
+    font-family: 'Noto Sans KR', sans-serif;
+    list-style: none;
+    text-decoration: none;
+    border-collapse: none;
+    margin: 0px;
+    padding: 0%;
+    color: black;
+}
+
+.intro{
+    background-image:url("contra.jpg");
+    width:100%;
+    height:408px;
+}
+
+.header{
+    display: flex;
+    width: 100%;
+    height: 40px;
+    margin: auto;
+   
+}
+
+.mainname{
+    display: flex;
+    margin-top: 9.5cm;
+    font-size: 3rem;
+    color: rgb(46, 29, 29);
+}
+
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    width: calc(1280px);
+}
+
+.nav>li{
+    margin-left: 85px;
+    font-size: x-large;
+}
+
+.nav>li>a{
+    color: antiquewhite;
+}
+
+.mainplace{
+    width: 100%;
+    height: 600px;
+    background:rgba(47, 4, 4, 0.4)
+}
+
+.int{
+    font-size: 20px;
+    float: right;
+    margin-right: 3rem;
+ 
+    
+}
+
