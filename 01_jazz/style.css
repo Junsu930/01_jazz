@@ -6,13 +6,13 @@
     border-collapse: none;
     margin: 0px;
     padding: 0%;
-    color: black;
+    color: #D5CEA3;
 }
 
 .intro{
     background-image:url("contra.jpg");
     width:100%;
-    height:408px;
+    height:100%;
 }
 
 .header{
@@ -27,7 +27,7 @@
     display: flex;
     margin-top: 9.5cm;
     font-size: 3rem;
-    color: rgb(46, 29, 29);
+    color: #D5CEA3;
 }
 
 .nav{
@@ -42,13 +42,13 @@
 }
 
 .nav>li>a{
-    color: antiquewhite;
+    color: #D5CEA3;
 }
 
 .mainplace{
     width: 100%;
     height: 600px;
-    background:rgba(47, 4, 4, 0.4)
+    background:#ffffff;
 }
 
 .int{
